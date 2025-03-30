@@ -9,5 +9,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhas882&show_icons=true&theme=radical)  
 
 ## 📌 Let's Connect  
-🔗 **LinkedIn:** [www.linkedin.com/in/majetisuhas](https://www.linkedin.com/in/majetisuhas)  
+🔗 **LinkedIn:** [www.linkedin.com/in/majetisuhas](https://www.linkedin.com/in/majeti-suhas)  
 🔗 **GitHub:** [github.com/suhas882](https://github.com/suhas882)  
