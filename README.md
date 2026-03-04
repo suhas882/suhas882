@@ -1,7 +1,7 @@
 ## 🚀 Tech Stack & Tools
-![AI](https://img.shields.io/badge/AI-Expert-blueviolet?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-blueviolet?style=for-the-badge)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-0A66C2?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-FF6F00?style=for-the-badge)
