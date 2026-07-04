@@ -1,47 +1,210 @@
-## 🚀 Tech Stack & Tools
-![AI](https://img.shields.io/badge/AI-blueviolet?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-0A66C2?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-FF6F00?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Majeti%20Suhas%20Guptha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20CSE%20(AI/ML)%20@%20SRMIST&descAlignY=60"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suhas882&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Majeti Suhas Guptha</h1>
+
+<h3 align="center">
+AI Engineer • Full Stack Developer • Machine Learning Enthusiast
+</h3>
 
 ---
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Majeti Suhas Guptha
-============================================================================================================================================
+## 🚀 About Me
 
-AI & Full Stack Developer | CSE (AI/ML) @ SRM IST
--------------------------------------------------
+🎓 Third-year B.Tech Computer Science student specializing in **Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology (SRM KTR)**.
 
-I am a 3rd-year Computer Science undergraduate at SRM Institute of Science and Technology (SRM KTR), specializing in Artificial Intelligence and Machine Learning. I am passionate about building intelligent, scalable, and user-focused web applications by combining AI with full stack development.
+I enjoy building **AI-powered applications**, scalable backend systems, and modern full-stack web applications that solve real-world problems.
 
-I have hands-on experience working with Python, React, Flask, MySQL, and modern web technologies. I enjoy solving real-world problems through projects such as AI-Powered Resume Analyzer & Job Matcher, and an Automobile Spare Parts E-Commerce Platform.
+Currently learning **Advanced React, Flask APIs, Deep Learning, and System Design** while preparing for Software Development and AI Engineer roles.
 
-My goal is to become a skilled full stack AI engineer and contribute to innovative solutions at top tech companies like Google or Microsoft. I am continuously learning, exploring new technologies, and striving to improve my problem-solving and development skills every day.
+---
 
-* 🌍  I'm based in India  
-* ✉️  You can contact me at [majetisuhas2021@gmail.com](mailto:majetisuhas2021@gmail.com)  
-* 🧠  I'm currently learning Advanced React, Flask APIs, and Deep Learning  
-* 👥  I'm looking to collaborate on AI/ML Projects, Full Stack Web Applications, and Innovative Hackathon Ideas  
-* 💬  Ask me about building intelligent web apps, AI projects, and full stack development  
+## 🌐 Portfolio
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+### 🔗 **Portfolio Website**
+
+**➡️ https://suhas882.github.io/my-portfolio/**
+
+Explore my:
+
+- 💼 Projects
+- 🏆 Certifications
+- 💻 Skills
+- 📄 Resume
+- 📫 Contact Information
+
+---
+
+## 🚀 Currently Working On
+
+- 🤖 AI Resume Analyzer & Job Matcher
+- 🚗 Automobile Spare Parts E-Commerce Platform
+- ⚙️ Distributed Job Scheduler
+- 📚 Daily DSA & Competitive Programming
+- 🧠 Deep Learning & Generative AI
+- ⚡ Advanced React & Flask APIs
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# ⭐ Featured Projects
+
+## 🚗 Automobile Spare Parts Marketplace
+
+- 🔐 Secure Authentication
+- 🛒 Shopping Cart
+- 📦 Product Management
+- 👨‍💼 Admin Dashboard
+
+**Tech Stack:** React • Flask • MySQL
+
+---
+
+## ⚙️ Distributed Job Scheduler
+
+- ⚡ Distributed Workers
+- 🔄 Retry Mechanism
+- 🌐 REST APIs
+- 📈 Scalable Architecture
+
+**Tech Stack:** Python • Flask
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suhas882&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suhas882&layout=compact&theme=tokyonight"/>
+
 </p>
 
-### Socials
-<p align="left">
-<a href="https://www.github.com/suhas882" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/majetisuhas" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</a>
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=suhas882&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-### 📊 GitHub Stats
-<a href="http://www.github.com/suhas882">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhas882&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=suhas882&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/suhas1223/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
+<a href="https://www.hackerearth.com/@majetisuhas2021" target="_blank">
+<img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**majetisuhas2021@gmail.com**
+
+🌐 **Portfolio**
+
+➡️ https://suhas882.github.io/my-portfolio/
+
+💼 **LinkedIn**
+
+➡️ https://www.linkedin.com/in/majetisuhas
+
+💻 **GitHub**
+
+➡️ https://github.com/suhas882
+
+---
+
+# 💬 Ask Me About
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Full Stack Development
+- 🐍 Python
+- ⚛️ React
+- 🚀 Flask
+- 🔗 REST APIs
+- 🗄️ MySQL
+- 📚 Data Structures & Algorithms
+
+---
+
+# ⚡ Fun Fact
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
