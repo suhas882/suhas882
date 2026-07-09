@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Majeti%20Suhas%20Guptha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20CSE%20(AI/ML)%20@%20SRMIST&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Majeti%20Suhas%20Guptha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CSE%20(AI/ML)%20%40%20SRMIST&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ Explore my:
 - 🔐 Secure Authentication
 - 🛒 Shopping Cart
 - 📦 Product Management
-- 👨‍💼 Admin Dashboard
+- 👨💼 Admin Dashboard
 
 **Tech Stack:** React • Flask • MySQL
 
@@ -113,18 +113,6 @@ Explore my:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suhas882&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suhas882&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -133,17 +121,6 @@ Explore my:
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suhas882&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
 
 # 💻 Coding Profiles
 
