@@ -42,12 +42,11 @@ Explore my:
 
 ## 🚀 Currently Working On
 
-- 🤖 AI Resume Analyzer & Job Matcher
-- 🚗 Automobile Spare Parts E-Commerce Platform
-- ⚙️ Distributed Job Scheduler
-- 📚 Daily DSA & Competitive Programming
-- 🧠 Deep Learning & Generative AI
-- ⚡ Advanced React & Flask APIs
+- 🧠 **Evidence-Calibrated Self-Correcting RAG** – Building a hallucination-resistant AI question-answering system for research publication.
+- 🎙️ **AI Voice Calling Platform** – Building real-time conversational AI with browser-based voice interactions and phone calling.
+- ⚡ **Full-Stack Development** – Building scalable applications using React, Python, Flask, and REST APIs.
+- 📚 **DSA & Competitive Programming** – Strengthening problem-solving skills with optimized algorithms.
+- 🔬 **Deep Learning & Generative AI** – Exploring LLMs, RAG architectures, NLP, and open-source AI models.
 
 ---
 
